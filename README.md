@@ -1,4 +1,5 @@
 Trabajo Recuperacion 2 Trimestre
+
 Este trabajo consiste en realizar las pruebas oportunas con Junit para el bloque de funciones asignadas a cada alumno. El objetivo del trabajo es implementar las funciones y pruebas correspondiente. La entrega del trabajo consistirá en un enlace git para que el profesor pueda descargarse el proyecto.
 
 El trabajo es individual.
